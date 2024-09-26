@@ -3,3 +3,4 @@
 
 1) Basic Syntax, Conditional Statements and Loops - Lab
 2) Basic Syntax, Conditional Statements and Loops - Exercise
+3) Data Types and Variables - Lab
