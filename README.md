@@ -5,3 +5,4 @@
 2) Basic Syntax, Conditional Statements and Loops - Exercise
 3) Basic Syntax, Conditional Statements and Loops - More Exercise
 4) Data Types and Variables - Lab
+5) Programming Fundamentals Mid Exam - 19.10.2024
