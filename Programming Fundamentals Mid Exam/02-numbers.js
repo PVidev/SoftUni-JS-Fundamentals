@@ -35,10 +35,4 @@ function numbers(inputData) {
 }
 
 numbers(["5 9 70 -56 9 9", "Replace 9 10", "Remove 9", "Finish"]);
-
-
-numbers(["1 4 5 19",
-    "Add 1",
-    "Remove 4",
-    "Finish"])    
-    ;
+// numbers(["1 4 5 19", "Add 1", "Remove 4", "Finish"]);
