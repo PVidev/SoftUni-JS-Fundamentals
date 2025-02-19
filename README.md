@@ -1,8 +1,19 @@
-## SoftUni-JS-Fundamentals
-#SoftUni Programming Fundamentals with JavaScript - September 2024
+# SoftUni-JS-Fundamentals
 
-1) Basic Syntax, Conditional Statements and Loops - Lab
-2) Basic Syntax, Conditional Statements and Loops - Exercise
-3) Basic Syntax, Conditional Statements and Loops - More Exercise
-4) Data Types and Variables - Lab
-5) Programming Fundamentals Mid Exam - 19.10.2024
+**SoftUni Programming Fundamentals with JavaScript - September 2024**
+
+## 📌 Course Content
+
+### 🔹 Basic Syntax, Conditional Statements and Loops
+1️⃣ **Lab**  
+2️⃣ **Exercise**  
+3️⃣ **More Exercise**  
+
+### 🔢 Data Types and Variables
+4️⃣ **Lab**  
+
+### 📝 Programming Fundamentals Mid Exam
+🗓️ **Date:** 19.10.2024  
+
+---
+More exercises and solutions will be added! 🚀
